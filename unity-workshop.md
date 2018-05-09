@@ -21,7 +21,9 @@ Before the session, please do the following:
 
 ## What will we cover?
 
-Time permitting, we'll do the following with Unity. We'll start from a basic, but not totally empty, base project that I've prepared: setting up some of the elements of this would be a bit of a boring waste of our time in the class, but rest assured I'll go over anything important.
+We'll start from a basic, but not totally empty, base project that I've prepared: setting up some of the elements of this would be a bit of a boring waste of our time in the class, but rest assured I'll go over anything important.
+
+Time permitting, we'll cover the following:
 
 1. What on Earth am I seeing? A quick tour of the Unity editor. It can be a little complex at first sight, so we'll de-mystify it a little before we get cracking.
 2. Adding an object to the game world with a sprite (or, _what is a sprite?_)
