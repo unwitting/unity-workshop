@@ -2,7 +2,7 @@
 
 Thanks for your interest in learning Unity!
 
-In the workshop, we'll be creating a basic game called **Gong**. It's like Pong, but there's only one paddle and ball has some bouncy physics!
+In the workshop, we'll be creating a basic game called **Gong**. It's like Pong, but there's only one paddle and the ball has some bouncy physics!
 
 ![](https://cdn.rawgit.com/unwitting/unity-workshop/c44f2397/gong.gif)
 
@@ -27,6 +27,8 @@ Time permitting, we'll do the following with Unity. We'll start from a basic, bu
 2. Adding an object to the game world with a sprite (or, _what is a sprite?_)
 3. Adding some 2D physics without a line of code (or, _what are Unity components?_)
 4. Scripting the game with C#! We'll add keyboard controls, a score counter and a reset mechanism.
+
+I'll also try to make sure we have ample time for questions and some general chat about my work, if you're interested.
 
 ## What do I need to know?
 
