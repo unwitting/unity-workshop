@@ -25,10 +25,10 @@ We'll start from a basic, but not totally empty, base project that I've prepared
 
 Time permitting, we'll cover the following:
 
-1. What on Earth am I seeing? A quick tour of the Unity editor. It can be a little complex at first sight, so we'll de-mystify it a little before we get cracking.
+1. What on Earth am I seeing? A quick tour of the Unity editor. It can be a little complex at first sight, so we'll de-mystify it a bit before we get cracking.
 2. Adding an object to the game world with a sprite (or, _what is a sprite?_)
 3. Adding some 2D physics without a line of code (or, _what are Unity components?_)
-4. Scripting the game with C#! We'll add keyboard controls, a score counter and a reset mechanism.
+4. Scripting the game with C#! You can do a lot more than you'd expect in Unity without code, but this is where we'll add keyboard controls, a score counter and a reset mechanism. Our collection of bouncing pictures becomes a game!
 
 I'll also try to make sure we have ample time for questions and some general chat about my work, if you're interested.
 
