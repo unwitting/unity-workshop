@@ -22,7 +22,7 @@ public class Paddle : MonoBehaviour {
 		// Therefore, if you move by Time.deltaTime each frame, then over 1s you'll move 1 unit
 		// With " * speed" you'll move at speed units / second
 		float distanceToMove = Time.deltaTime * speed;
-		MoveByDistance (distanceToMove);
+		MoveByDistance (-distanceToMove);
 	}
 
 	void MoveRight () {
