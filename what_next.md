@@ -5,6 +5,12 @@ You've done the workshop and made Gong!
 You want to learn more about Unity, do some projects which let you take it at your own pace.
 What's good?
 
+## Recap
+
+We might've gone through everything a bit quickly in the workshop, so it could be a good idea to cast your eye over what we did.
+
+I've included annotated and refactored versions of the three scripts we wrote in this repo at [/scripts](https://github.com/unwitting/unity-workshop/tree/master/scripts), they're probably worth a read!
+
 ## Tutorials / guides
 
 Unity have a bunch of great tutorials covering loads of different types of games, so whatever you want to make you'll have a fun option.
